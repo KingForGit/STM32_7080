@@ -1,0 +1,9 @@
+.\build\rt_task.o: Kernel\src\rt_Task.c
+.\build\rt_task.o: .\Kernel\inc\rt_TypeDef.h
+.\build\rt_task.o: .\Kernel\inc\RTX_Config.h
+.\build\rt_task.o: .\Kernel\inc\rt_System.h
+.\build\rt_task.o: .\Kernel\inc\rt_Task.h
+.\build\rt_task.o: .\Kernel\inc\rt_List.h
+.\build\rt_task.o: .\Kernel\inc\rt_MemBox.h
+.\build\rt_task.o: .\Kernel\inc\rt_Robin.h
+.\build\rt_task.o: .\Kernel\portable\rt_HAL_CM.h

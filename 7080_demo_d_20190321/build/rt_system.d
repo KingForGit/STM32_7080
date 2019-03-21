@@ -1,0 +1,13 @@
+.\build\rt_system.o: Kernel\src\rt_System.c
+.\build\rt_system.o: .\Kernel\inc\rt_TypeDef.h
+.\build\rt_system.o: .\Kernel\inc\RTX_Config.h
+.\build\rt_system.o: .\Kernel\inc\rt_Task.h
+.\build\rt_system.o: .\Kernel\inc\rt_System.h
+.\build\rt_system.o: .\Kernel\inc\rt_Event.h
+.\build\rt_system.o: .\Kernel\inc\rt_List.h
+.\build\rt_system.o: .\Kernel\inc\rt_Mailbox.h
+.\build\rt_system.o: .\Kernel\inc\rt_Semaphore.h
+.\build\rt_system.o: .\Kernel\inc\rt_Time.h
+.\build\rt_system.o: .\Kernel\inc\rt_Timer.h
+.\build\rt_system.o: .\Kernel\inc\rt_Robin.h
+.\build\rt_system.o: .\Kernel\portable\rt_HAL_CM.h
